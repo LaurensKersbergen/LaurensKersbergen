@@ -1,9 +1,9 @@
 👋 Hi, I’m @LaurensKersbergen.
 
-I’m a product manager living in Amsterdam. I’m currently working at Miro—focusing on the marketing site.
+I’m a product manager living in Amsterdam. I’m currently working at <a href="https://www.miro.com/">Miro</a>—focusing on the marketing site.
 
 <a href="https://www.laurenskersbergen.com/about">More about me →</a><br>
-<a href="https://www.laurenskersbergen.com/about">My personal website</a><br>
+<a href="https://www.laurenskersbergen.com/about">My personal website →</a><br>
 <a href="https://twitter.com/lvkersbergen">@lvkersbergen on Twitter →</a>
 
 <!---
