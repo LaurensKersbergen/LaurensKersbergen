@@ -1,6 +1,6 @@
 👋 Hi, I’m @LaurensKersbergen.
 
-I’m a product manager, designer, and writer, living in Amsterdam. I’m currently building web apps at Growth Tribe.
+I’m a product manager living in Amsterdam. I’m currently working at Miro—focusing on the marketing site.
 
 <a href="https://www.laurenskersbergen.com/about">More about me →</a><br>
 <a href="https://www.laurenskersbergen.com/about">My personal website</a><br>
